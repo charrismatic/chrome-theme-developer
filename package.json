@@ -1,0 +1,28 @@
+{
+  "name": "chrome-charrismatic-theme-builder",
+  "version": "1.0.0",
+  "description": "theme development tool for chrome",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charrismatic/chrome-charrismatic-theme-builder.git"
+  },
+  "keywords": [
+    "chrome-extension",
+    "datatables",
+    "facebook",
+    "instagram"
+  ],
+  "author": "Matt Harris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charrismatic/chrome-charrismatic-theme-builder/issues"
+  },
+  "homepage": "https://github.com/charrismatic/chrome-charrismatic-theme-builder#readme"
+}

@@ -1,0 +1,30 @@
+{
+  "name":"Charrismatic Dark Theme",
+  "version":"1.0",
+  "description":"A dark theme for developers",
+  "manifest_version":2,
+  "theme": {
+    "images":{
+      "theme_ntp_background":"images\/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame":               [10, 10, 10],
+      "frame_inactive":      [40, 40, 40],
+      "toolbar":             [50, 100, 150],
+      "tab_text":            [255, 255, 255],
+      "tab_background_text": [150, 150, 150],
+      "bookmark_text":       [253, 253, 253],
+      "ntp_background":      [10, 10, 11],
+      "ntp_text":            [85, 66, 66],
+      "ntp_link":            [130, 176, 235],
+      "button_background":   [54, 131, 255, 1]
+    },
+    "tints":{
+      "buttons": [1, 1, 1]
+    },
+    "properties": {
+      "ntp_background_alignment":"top",
+      "ntp_background_repeat":"no-repeat"
+    }
+  }
+}
